@@ -1,2 +1,1 @@
-# SimpleCPP-Calculator
-Simple C++ Calculator
+Simple CPP Calculator
